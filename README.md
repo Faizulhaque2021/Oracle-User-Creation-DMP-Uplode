@@ -11,7 +11,7 @@ grant dba to (Username)
 
 =================================
 Uplode DMP 
-===================================================
+=================================
 Goto Run and Write down cmd
 
 cmd-> command promt
